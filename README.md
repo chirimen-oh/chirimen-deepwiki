@@ -1,9 +1,9 @@
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/shi00000/chirimen-deepwiki)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/chirimen-oh/chirimen-deepwiki)
 
 
 # chirimen-deepwiki
 
-CHIRIMENのAIアシスタント（[DeepWiki](https://deepwiki.com/shi00000/chirimen-deepwiki)）用のリポジトリです。
+CHIRIMENのAIアシスタント（[DeepWiki](https://deepwiki.com/chirimen-oh/chirimen-deepwiki)）用のリポジトリです。
 
 各リポジトリから必要なソースコードを自動で収集し、毎日同期します。
 
