@@ -17,7 +17,7 @@ jobs:
 
     steps:
       - name: Checkout this repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       # 1. chirimen.org から pizero/src だけ取得
       - name: Fetch chirimen.org/pizero/src
